@@ -49,9 +49,8 @@ The primary objective of this architecture was the centralized collection of sec
 
 ## ☁️ 3. Cloud SIEM & Threat Hunting (Azure Sentinel)
 In addition to my local Splunk environment, I am actively expanding my cloud security skills by building a live-fire threat intelligence lab in Microsoft Azure.
-* **Architecture:** Deployed a Linux VM in Azure and exposed it to the public internet, running a custom **Python Honeypot** script to attract and log unauthorized access attempts.
-* **Current Operations & Troubleshooting:** The honeypot successfully captures live attacker IPs and payloads locally. I am currently deep-diving into Azure Log Analytics Workspaces and Data Collection Rules (DCR) to troubleshoot and engineer the custom log forwarding pipeline into Microsoft Sentinel.
-
+* **Architecture: Deployed a Windows Server VM in Azure and exposed it to the public internet (RDP), running a custom PowerShell Honeypot script to attract and log unauthorized access attempts.
+* **Current Operations & Troubleshooting: The honeypot successfully captures live attacker IPs locally from Event ID 4625. I am currently deep-diving into Azure Log Analytics Workspaces and Data Collection Rules (DCR) to troubleshoot and engineer the custom log forwarding pipeline into Microsoft Sentinel.
 ---
 
 ## 🐍 4. SOC Automation & Custom Tooling
