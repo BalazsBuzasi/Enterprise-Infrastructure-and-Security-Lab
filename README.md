@@ -3,7 +3,7 @@
 ## 📌 Executive Summary
 Junior Systems Administrator & IT Support professional with a strong foundation in Windows Active Directory, network routing, and infrastructure monitoring. Experienced in building on-premise and cloud telemetry pipelines, automating administrative tasks with Python, and implementing secure network architectures.
 
-This repository documents my hands-on experience engineering both on-premise and cloud-based logging architectures. It features a multi-node Windows AD/Splunk pipeline, an Azure Sentinel honeypot deployment, and custom Python automation tools designed to reduce Level 1 SOC alert fatigue.
+This repository documents my hands-on experience engineering enterprise IT infrastructure, Active Directory domain services, and centralized log telemetry pipelines. It features a multi-node Windows AD and Splunk architecture, hybrid cloud monitoring with Azure Sentinel, and custom Python and PowerShell automation tools designed to streamline systems management, log analysis, and administrative workflows.
 
 **Certifications:**
 * 🏆 CompTIA A+ (Core 1 & Core 2)
