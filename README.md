@@ -1,7 +1,7 @@
-# 🛡️ Enterprise SIEM Architecture & Threat Automation Lab
+# Infrastructure & Network Management
 
 ## 📌 Executive Summary
-Welcome to my cybersecurity portfolio. I am a highly motivated Junior SOC Analyst with a strong focus on **Threat Detection, Data Ingestion, and Security Automation**. 
+Junior Systems Administrator & IT Support professional with a strong foundation in Windows Active Directory, network routing, and infrastructure monitoring. Experienced in building on-premise and cloud telemetry pipelines, automating administrative tasks with Python, and implementing secure network architectures.
 
 This repository documents my hands-on experience engineering both on-premise and cloud-based logging architectures. It features a multi-node Windows AD/Splunk pipeline, an Azure Sentinel honeypot deployment, and custom Python automation tools designed to reduce Level 1 SOC alert fatigue.
 
